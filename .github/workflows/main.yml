@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs: 
       decrypted_youtube_music_url:
-        description: "The direct URL to the decrypted YouTube Music ipa (Upload a decrypted .ipa file to Dropbox and input its URL here.)"
+        description: "The direct URL to the decrypted YouTube Music ipa (https://filebin.net/m4xmkp0b8irth69y/YTMusic.ipa)"
         default: ""
         required: true
         type: string    
